@@ -1,3 +1,3 @@
 fun main() {
-    println(day_1.find3MaxCalories())
+    println(day_2.calculateCorrectScore())
 }
