@@ -1,3 +1,3 @@
 fun main() {
-    println(day_2.calculateCorrectScore())
+    println(day_3.searchRucksacksForBadges())
 }
